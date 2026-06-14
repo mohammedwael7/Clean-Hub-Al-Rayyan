@@ -1,4 +1,4 @@
-import{j as s,P as a,H as t,c as i,R as e}from"./HtmlContent-B-4QccHC.js";const l=String.raw`<section class="hero section tight">
+export const homeMain = String.raw`<section class="hero section tight">
 <div class="container">
 <div class="hero-grid" style="gap:44px">
 <div class="hero-copy reveal">
@@ -6,7 +6,7 @@ import{j as s,P as a,H as t,c as i,R as e}from"./HtmlContent-B-4QccHC.js";const 
 <span class="material-symbols-outlined" style="font-size:1.1rem">loyalty</span>
               خصم 20٪ على الطلب الأول
             </a>
-<h1>نعتني بملابسك<br/><span style="color:var(--primary)">كما تستحق</span></h1>
+<h1>نعتني بملابسك<br/><span style="color:var(--primary);display:block;margin-top:20px ;">كما تستحق</span></h1>
 <p style="font-size:1.08rem;margin-top:16px">تجربة غسيل فاخرة تجمع بين الدقة المتناهية والتكنولوجيا الحديثة.
               نضمن لك نظافة مثالية ورائحة تدوم طويلاً.</p>
 <div class="hero-actions">
@@ -299,4 +299,4 @@ import{j as s,P as a,H as t,c as i,R as e}from"./HtmlContent-B-4QccHC.js";const 
 </div>
 </div>
 </section>
-`;function n(){return s.jsx(a,{subtitle:"خدمات غسيل احترافية",activeNav:"home",topbarWhatsappHref:"https://wa.me/201019145858",footerLogoWidth:50,children:s.jsx(t,{html:l})})}i.createRoot(document.getElementById("root")).render(s.jsx(e.StrictMode,{children:s.jsx(n,{})}));
+`;
