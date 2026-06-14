@@ -1,4 +1,4 @@
-export const laundryMain = String.raw` 
+import{j as t,P as s,H as a,c as d,R as c}from"./HtmlContent-B-4QccHC.js";const i=String.raw` 
 <section class="page-hero section tight">
 <div class="container">
 <div class="page-hero-grid">
@@ -435,4 +435,4 @@ export const laundryMain = String.raw`
 </div>
 </div>
 </section>
-`;
+`;function r(){return t.jsx(s,{subtitle:"غسيل وكوي احترافي",activeNav:"laundry",topbarWhatsappHref:"https://wa.me/201019145858",footerLogoWidth:40,children:t.jsx(a,{html:i})})}d.createRoot(document.getElementById("root")).render(t.jsx(c.StrictMode,{children:t.jsx(r,{})}));
