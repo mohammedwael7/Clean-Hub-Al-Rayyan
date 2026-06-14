@@ -1,10 +1,10 @@
-import{j as s,P as a,H as i,c as e,R as t}from"./HtmlContent-B-4QccHC.js";const l=String.raw`<section class="page-hero section tight">
+export const carpetMain = String.raw`<section class="page-hero section tight">
 <div class="container">
 <div class="page-hero-grid">
 <div class="page-hero-copy reveal">
 <span class="eyebrow" style="margin-bottom:18px"><span class="material-symbols-outlined">air</span> تنظيف
               عميق وتعقيم شامل</span>
-<h1>أعد لسجادك بريقه<br/><span style="color:var(--primary)">كأنه جديد تماماً</span></h1>
+<h1>أعد لسجادك بريقه<br/><span style="color:var(--primary);display:block;margin-top:35px;">كأنه جديد تماماً</span></h1>
 <p style="margin-top:14px">نستخدم أحدث تقنيات البخار والتجفيف الآلي لضمان نظافة عميقة وتطهير شامل لجميع
               أنواع السجاد في منزلك.</p>
 <div class="hero-actions"><a class="btn btn-primary" href="contact.html">اطلب الخدمة الآن<span class="material-symbols-outlined">arrow_back</span></a><a class="btn btn-secondary" href="#pricing">عرض الأسعار</a></div>
@@ -141,4 +141,4 @@ import{j as s,P as a,H as i,c as e,R as t}from"./HtmlContent-B-4QccHC.js";const 
 </div>
 </div>
 </section>
-`;function r(){return s.jsx(a,{subtitle:"تنظيف سجاد احترافي",activeNav:"carpet",topbarWhatsappHref:"https://wa.me/201012345678",footerLogoWidth:40,children:s.jsx(i,{html:l})})}e.createRoot(document.getElementById("root")).render(s.jsx(t.StrictMode,{children:s.jsx(r,{})}));
+`;
