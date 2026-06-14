@@ -26,7 +26,7 @@ import{j as a,P as s,H as t,c as e,R as l}from"./HtmlContent-B-4QccHC.js";const 
 <h3 style="margin-top:0">أرقام التواصل</h3>
 <div style="display:grid;gap:12px;margin-top:18px">
 <a class="btn btn-secondary" href="tel:01019145858" style="justify-content:space-between"><span>01019145858</span><span class="chip" style="padding:6px 12px">اتصال</span></a>
-<a class="btn btn-secondary" href="tel:01019145858" style="justify-content:space-between"><span>01094914547</span><span class="chip" style="padding:6px 12px">اتصال</span></a>
+<a class="btn btn-secondary" href="tel:01094914547" style="justify-content:space-between"><span>01094914547</span><span class="chip" style="padding:6px 12px">اتصال</span></a>
 </div>
 </div>
 <div class="contact-card">
