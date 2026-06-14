@@ -1,4 +1,4 @@
-export const homeMain = String.raw`<section class="hero section tight">
+import{j as s,P as a,H as t,c as i,R as e}from"./HtmlContent-B-4QccHC.js";const l=String.raw`<section class="hero section tight">
 <div class="container">
 <div class="hero-grid" style="gap:44px">
 <div class="hero-copy reveal">
@@ -299,4 +299,4 @@ export const homeMain = String.raw`<section class="hero section tight">
 </div>
 </div>
 </section>
-`;
+`;function n(){return s.jsx(a,{subtitle:"خدمات غسيل احترافية",activeNav:"home",topbarWhatsappHref:"https://wa.me/201019145858",footerLogoWidth:50,children:s.jsx(t,{html:l})})}i.createRoot(document.getElementById("root")).render(s.jsx(e.StrictMode,{children:s.jsx(n,{})}));
