@@ -1,11 +1,11 @@
-import{j as t,P as s,H as a,c as d,R as c}from"./HtmlContent-B-4QccHC.js";const i=String.raw` 
+export const laundryMain = String.raw` 
 <section class="page-hero section tight">
 <div class="container">
 <div class="page-hero-grid">
 <div class="page-hero-copy reveal">
 <span class="eyebrow" style="margin-bottom:18px"><span class="material-symbols-outlined">laundry</span> خدمة
               يومية موثوقة</span>
-<h1>خدمات الغسيل والكوي<br/><span style="color:var(--primary)">بمستوى راقٍ</span></h1>
+<h1>خدمات الغسيل والكوي<br/><span style="color:var(--primary);display:block;margin:20px 0px 35px ;">بمستوى راقٍ</span></h1>
 <p style="margin-top:14px">من القمصان والبدل إلى البطانيات والمفروشات، نقدّم لك غسيلاً دقيقاً وكوياً
               احترافياً مع استلام وتوصيل لباب المنزل.</p>
 <div class="muted-row" style="margin-top:20px">
@@ -435,4 +435,4 @@ import{j as t,P as s,H as a,c as d,R as c}from"./HtmlContent-B-4QccHC.js";const 
 </div>
 </div>
 </section>
-`;function r(){return t.jsx(s,{subtitle:"غسيل وكوي احترافي",activeNav:"laundry",topbarWhatsappHref:"https://wa.me/201019145858",footerLogoWidth:40,children:t.jsx(a,{html:i})})}d.createRoot(document.getElementById("root")).render(t.jsx(c.StrictMode,{children:t.jsx(r,{})}));
+`;
