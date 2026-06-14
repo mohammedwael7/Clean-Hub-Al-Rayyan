@@ -1,4 +1,4 @@
-export const carpetMain = String.raw`<section class="page-hero section tight">
+import{j as s,P as a,H as i,c as e,R as t}from"./HtmlContent-B-4QccHC.js";const l=String.raw`<section class="page-hero section tight">
 <div class="container">
 <div class="page-hero-grid">
 <div class="page-hero-copy reveal">
@@ -141,4 +141,4 @@ export const carpetMain = String.raw`<section class="page-hero section tight">
 </div>
 </div>
 </section>
-`;
+`;function r(){return s.jsx(a,{subtitle:"تنظيف سجاد احترافي",activeNav:"carpet",topbarWhatsappHref:"https://wa.me/201012345678",footerLogoWidth:40,children:s.jsx(i,{html:l})})}e.createRoot(document.getElementById("root")).render(s.jsx(t.StrictMode,{children:s.jsx(r,{})}));
