@@ -19,4 +19,4 @@ A responsive web application for Al Rayan Stations, built with modern frontend t
 - Bootstrap-based styling and layout
 
 ## Description
-This project was developed to provide a modern web interface for Al Rayan Stations, focusing on performance, usability, and responsive design principles.
+A responsive React-based laundry landing page that helps customers explore dry cleaning services, view prices, payment methods, location, and contact the laundry easily.
